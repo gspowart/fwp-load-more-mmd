@@ -1,4 +1,4 @@
-# FacetWP - Load More
+# FacetWP - Load More with mmd customizations
 A shortcode to generate a "Load more" button instead of standard pagination
 
 ## Usage
